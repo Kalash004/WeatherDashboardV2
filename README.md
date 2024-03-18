@@ -26,6 +26,7 @@ For any questions ask me on kalashnikov004@gmail.com
 ### TODO:
 * backend
     * Fetch weather data from api
+    * Ability to add cities to fetching
     * Place them into cache
     * Serve from cache
     * Add ability to choose cities
