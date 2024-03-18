@@ -1,6 +1,6 @@
 import 'dotenv/config';
 import { v4 as uuid } from 'uuid';
-import Session from './model_session';
+import Session from './model_session.js';
 
 export const cur_sessions = {}
 

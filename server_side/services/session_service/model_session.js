@@ -1,4 +1,4 @@
-class Session {
+export default class Session {
     constructor(username, expiresAt) {
         this.expires = expiresAt
         this.username = username
